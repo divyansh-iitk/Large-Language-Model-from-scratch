@@ -130,4 +130,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Sebastian Raschka's book: *"Building Large Language Models From Scratch"*
 - OpenAI GPT-2 124M parameters
-- PyTorch team
